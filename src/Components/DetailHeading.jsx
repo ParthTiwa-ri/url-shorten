@@ -1,6 +1,6 @@
 function DetailHeading() {
   return (
-    <div>
+    <div className="my-6">
       <h1 className=" text-center text-2xl font-bold text-veryDarkBlue">
         Advanced Statistics
       </h1>

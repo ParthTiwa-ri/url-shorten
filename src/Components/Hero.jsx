@@ -5,7 +5,7 @@ import HeroText from "./HeroText";
 
 function Hero() {
   return (
-    <div className="mb-12 flex flex-col justify-center gap-6 p-6">
+    <div className="mb-32 flex flex-col justify-center gap-6 p-6">
       <Header />
       <img src={heroimag} alt="heroimg" />
       <HeroText />
